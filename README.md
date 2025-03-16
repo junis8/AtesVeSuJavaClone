@@ -23,7 +23,7 @@ Projede ek bir bağımlılık yönetimi (Maven, Gradle vb.) kullanılmamaktadır
 
 3. Adım: Uygulamayı Çalıştırma
 Projenin ana sınıfı Main.java'dır. Uygulamayı çalıştırmak için şu komutu kullanabilirsiniz:
-java main.Main
+java Main
 Ya da IDE (Eclipse, IntelliJ IDEA vb.) üzerinden projeyi açıp çalıştırabilirsiniz.
 
 Oynanış
